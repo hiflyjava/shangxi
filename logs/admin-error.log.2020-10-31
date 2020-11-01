@@ -1,0 +1,6 @@
+ERROR 2020-10-31 14:32:59,504 [http-nio-8073-exec-1] c.q.dts.admin.shiro.AdminAuthorizingRealm > 找不到用户（16456）的帐号信息
+ERROR 2020-10-31 14:32:59,522 [http-nio-8073-exec-1] com.qiguliuxing.dts.admin.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2020-10-31 14:38:11,917 [http-nio-8073-exec-3] c.q.dts.admin.shiro.AdminAuthorizingRealm > 找不到用户（admin123）的帐号信息
+ERROR 2020-10-31 14:38:11,917 [http-nio-8073-exec-3] com.qiguliuxing.dts.admin.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确
+ERROR 2020-10-31 14:43:59,102 [http-nio-8073-exec-7] c.q.dts.admin.shiro.AdminAuthorizingRealm > 找不到用户（16456）的帐号信息
+ERROR 2020-10-31 14:43:59,103 [http-nio-8073-exec-7] com.qiguliuxing.dts.admin.web.AdminAuthController > 系统管理->用户登录  错误:用户帐号或密码不正确

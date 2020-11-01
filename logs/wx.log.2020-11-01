@@ -1,0 +1,20 @@
+INFO  2020-11-01 16:23:51,038 [restartedMain] com.qiguliuxing.dts.wx.Application > Starting Application on HWL-2019 with PID 10516 (D:\java\shopping\dts-shop-master\dts-wx-api\target\classes started by Administrator in D:\java\shopping\dts-shop-master)
+DEBUG 2020-11-01 16:23:51,039 [restartedMain] com.qiguliuxing.dts.wx.Application > Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+INFO  2020-11-01 16:23:51,039 [restartedMain] com.qiguliuxing.dts.wx.Application > The following profiles are active: dev
+INFO  2020-11-01 16:23:59,204 [restartedMain] com.qiguliuxing.dts.wx.Application > Started Application in 8.82 seconds (JVM running for 10.337)
+INFO  2020-11-01 16:25:36,404 [http-nio-8070-exec-4] com.qiguliuxing.dts.wx.web.WxOrderController > 【请求开始】查库订单物流跟踪,请求参数,userId:null,orderId:2
+ERROR 2020-11-01 16:25:57,931 [http-nio-8070-exec-4] com.qiguliuxing.dts.wx.service.WxOrderService > 订单物流跟踪失败：用户未登录!
+INFO  2020-11-01 16:26:45,413 [http-nio-8070-exec-5] com.qiguliuxing.dts.wx.web.WxOrderController > 【请求开始】查库订单物流跟踪,请求参数,userId:null,orderId:2
+ERROR 2020-11-01 16:26:53,494 [http-nio-8070-exec-5] com.qiguliuxing.dts.wx.service.WxOrderService > 订单物流跟踪失败：用户未登录!
+INFO  2020-11-01 16:28:08,661 [restartedMain] com.qiguliuxing.dts.wx.Application > Starting Application on HWL-2019 with PID 9504 (D:\java\shopping\dts-shop-master\dts-wx-api\target\classes started by Administrator in D:\java\shopping\dts-shop-master)
+DEBUG 2020-11-01 16:28:08,662 [restartedMain] com.qiguliuxing.dts.wx.Application > Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+INFO  2020-11-01 16:28:08,663 [restartedMain] com.qiguliuxing.dts.wx.Application > The following profiles are active: dev
+INFO  2020-11-01 16:28:17,340 [restartedMain] com.qiguliuxing.dts.wx.Application > Started Application in 9.366 seconds (JVM running for 10.876)
+INFO  2020-11-01 16:32:20,528 [restartedMain] com.qiguliuxing.dts.wx.Application > Starting Application on HWL-2019 with PID 12480 (D:\java\shopping\dts-shop-master\dts-wx-api\target\classes started by Administrator in D:\java\shopping\dts-shop-master)
+DEBUG 2020-11-01 16:32:20,529 [restartedMain] com.qiguliuxing.dts.wx.Application > Running with Spring Boot v2.0.4.RELEASE, Spring v5.0.8.RELEASE
+INFO  2020-11-01 16:32:20,529 [restartedMain] com.qiguliuxing.dts.wx.Application > The following profiles are active: dev
+INFO  2020-11-01 16:32:28,702 [restartedMain] com.qiguliuxing.dts.wx.Application > Started Application in 8.809 seconds (JVM running for 10.291)
+INFO  2020-11-01 16:33:32,613 [http-nio-8070-exec-2] com.qiguliuxing.dts.wx.web.WxOrderController > 【请求开始】查库订单物流跟踪,请求参数,userId:1,orderId:1
+INFO  2020-11-01 16:34:39,051 [http-nio-8070-exec-2] com.qiguliuxing.dts.wx.service.WxOrderService > 【请求结束】订单物流跟踪成功！
+INFO  2020-11-01 16:35:57,805 [http-nio-8070-exec-5] com.qiguliuxing.dts.wx.web.WxOrderController > 【请求开始】查库订单物流跟踪,请求参数,userId:1,orderId:1
+INFO  2020-11-01 16:36:16,298 [http-nio-8070-exec-5] com.qiguliuxing.dts.wx.service.WxOrderService > 【请求结束】订单物流跟踪成功！
